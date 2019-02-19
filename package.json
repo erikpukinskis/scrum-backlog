@@ -1,6 +1,6 @@
 {
   "name": "scrum-backlog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "In-memory model of the Scrum process",
   "main": "scrum-backlog.js"
 }
